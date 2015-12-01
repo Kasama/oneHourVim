@@ -1,0 +1,9 @@
+Simple 1: using <C-A>, w, <C-N>, NTimes, O, G and #
+	http://vimgolf.com/challenges/55b18bbea9c2c30d04000001
+	#Yp<C-A>w11<C-A>GONew te<C-N>.<CR><ESC>ZZ
+Simple 2: using v, x, NTimes and registers
+	http://vimgolf.com/challenges/55bcdc3ef4219f456102374f
+	$8XFb9vp$PZZ
+Simple 3: using macro/regex replace
+	http://vimgolf.com/challenges/540629666a1e4000020d9e5a
+
