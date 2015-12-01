@@ -58,6 +58,7 @@ Summary
 - `p` `P`
 - `r`
 - `u` `C-R`
+
 ---
 - `y` `Y`
 - `c` `C`
@@ -73,6 +74,7 @@ Summary
 - `f` `F` `t` `T`
 - `G` `gg` `NG`
 - `{` `(` paragraph and sentences
+
 ---
 - `%` `*` `#`
 - `/pattern` `?pattern`
