@@ -24,6 +24,7 @@ Summary
 	- [Man of few words](#abbreviations)
 	- [There's a plug-in for that!](#plugins)
 - [I challenge you](#vimgolf)
+- [Where to go from here?](#more)
 
 <a name="cheat"></a> You filthy cheater
 ---------------------------------------
@@ -140,3 +141,10 @@ Summary
 	- $8XFb9vp$PZZ
 - [Simple 3](http://vimgolf.com/challenges/540629666a1e4000020d9e5a): using macro/regex replace
 	
+
+<a name="more"></a> Where to go from here?
+------------------------------------------
+
+- Learn vimscript the hard way
+- Vimcasts
+- ViEmu
