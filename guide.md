@@ -107,13 +107,13 @@ Summary
 ### <a name="mappings"></a> Default behaviour sucks
 
 - map
-	- n, i, v
-	- jk as <esc>
+	- `n`, `i`, `v`
+	- `jk` as `<esc>`
 	- example, surround in quotes
 - unmap
 	- n, i, v
 - noremap
-	- nmap dd O<esc>jddk
+	- `nmap dd O<esc>jddk`
 
 ### <a name="leader"></a> Follow my lead
 
@@ -147,4 +147,5 @@ Summary
 
 - Learn vimscript the hard way
 - Vimcasts
+- Practical vim
 - ViEmu

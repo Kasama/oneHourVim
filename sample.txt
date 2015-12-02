@@ -15,7 +15,7 @@ Copy this line
 Paste in between p
 this 2 P
 
-function()misplacedParams
+function()
 function()misplaced-params{
 not_indented();
 	indented();
