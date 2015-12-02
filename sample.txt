@@ -1,0 +1,47 @@
+gg
+2G
+
+4gg
+------------------
+
+
+
+
+
+------------------
+
+Copy this line
+
+Paste in between p
+this 2 P
+
+function()misplacedParams
+function()misplaced-params{
+not_indented();
+	indented();
+
+auto_indent_me{
+my_function();
+}
+
+}
+
+0somee w-FxWORD Wfx
+
+This is a sentence. Inside a paragraph, which is divided by empy lines.
+
+This is another sentence. Inside another paragraph
+
+
+replace_my_params(outdated_params){
+	outdated_body();
+	some_more_outdate_stuff();
+}
+
+<dvi>
+	<--! TODO this div is misspelled -->
+</div>
+
+
+
+G

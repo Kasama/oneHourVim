@@ -20,8 +20,8 @@ Summary
 	- [So much to learn](#adapt)
 - [I heard it's customizable](#custom)
 	- [Default behaviour sucks](#mappings)
-	- [Follow my lead](#leader)
 	- [Man of few words](#abbreviations)
+	- [Follow my lead](#leader)
 	- [There's a plug-in for that!](#plugins)
 - [I challenge you](#vimgolf)
 
@@ -97,8 +97,7 @@ Summary
 - `C-p`
 
 ### <a name="adapt"></a> So much to learn
-
-- unmap vicious behaviour <nop>
+- unmap vicious behaviour
 
 <a name="custom"></a> I heard it's customizable
 -----------------------------------------------
@@ -107,36 +106,16 @@ Summary
 
 - map
 	- n, i, v
-	- jk as <esc>
-	- example, surround in quotes
 - unmap
 	- n, i, v
 - noremap
 	- nmap dd O<esc>jddk
 
-### <a name="leader"></a> Follow my lead
-
-- let mapleader = ...
-- let localmapleader = ..
-
 ### <a name="abbreviations"></a> Man of few words
 
-- iabbrev
+### <a name="leader"></a> Follow my lead
 
 ### <a name="plugins"></a> There's a plug-in for that!
 
-- [Vundle](http://github.com/VundleVim/Vundle.vim)
-- [NerdTree](http://github.com/scrooloose/nerdtree)
-- [SuperTab](http://github.com/ervandew/supertab)
-- [UltiSnips](http://github.com/SirVer/ultisnips)
-
 <a name="vimgolf"></a> I challenge you
 --------------------------------------
-
-
-- [Simple 1](http://vimgolf.com/challenges/55b18bbea9c2c30d04000001): using <C-A>, w, <C-N>, NTimes, O, G and #
-	- #Yp<C-A>w11<C-A>GONew te<C-N>.<CR><ESC>ZZ
-- [Simple 2](http://vimgolf.com/challenges/55bcdc3ef4219f456102374f): using v, x, NTimes and registers
-	- $8XFb9vp$PZZ
-- [Simple 3](http://vimgolf.com/challenges/540629666a1e4000020d9e5a): using macro/regex replace
-	
